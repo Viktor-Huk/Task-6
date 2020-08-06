@@ -1,0 +1,4 @@
+TooManyFunctions - 11/11 - [DetailsActivity] at /sysroot/home/user1/Android/rs-school-android/task_6_dirty/app/src/main/java/com/example/mvpexample/ui/DetailsActivity.kt:18:7 - Signature=DetailsActivity.kt$DetailsActivity$DetailsActivity
+MagicNumber - [<anonymous>] at /sysroot/home/user1/Android/rs-school-android/task_6_dirty/app/src/main/java/com/example/mvpexample/ui/MainActivity.kt:58:16 - Signature=MainActivity.kt$MainActivity$2000L
+MagicNumber - [videoUrl] at /sysroot/home/user1/Android/rs-school-android/task_6_dirty/app/src/main/java/com/example/mvpexample/repository/Repository.kt:57:59 - Signature=Repository.kt$Repository$5
+MagicNumber - [videoUrl] at /sysroot/home/user1/Android/rs-school-android/task_6_dirty/app/src/main/java/com/example/mvpexample/repository/Repository.kt:85:63 - Signature=Repository.kt$Repository$5

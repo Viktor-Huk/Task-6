@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <SwitchPreferenceCompat
+        android:key="change_theme_setting_key"
+        android:title="Dark theme" />
+
+    <SwitchPreferenceCompat
+        android:key="change_source_setting_key"
+        app:title="Get data from local source"/>
+
+</PreferenceScreen>
